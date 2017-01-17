@@ -6,7 +6,7 @@ One Paragraph of project description goes here
 
 These instructions will give you more information about converting your Vine archive to an active website
 
-### Willing to Donate? If so please visit(paypal.me/BraxtonHuff)
+### Willing to Donate? If so please visit the [Donate Page](paypal.me/BraxtonHuff)
 
 ### Prerequisites
 
